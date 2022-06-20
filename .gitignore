@@ -1,0 +1,7 @@
+*.pickle
+*.csv
+*.log
+fig
+venv
+.ipynb_checkpoints
+.DS_Store
